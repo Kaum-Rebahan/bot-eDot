@@ -11,6 +11,7 @@
 1. Withdraw No OTP
 2. Set Wallet (DANA) No OTP (Harus KYC)
 
+![IMG_20230308_234133](https://user-images.githubusercontent.com/127330029/223774670-70c503a0-f462-40c1-bf32-4e1efea0a7e8.jpg)
 
 
 </details>
