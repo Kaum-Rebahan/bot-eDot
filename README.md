@@ -2,7 +2,7 @@
 # Cara Pakai
 1. pkg upgrade && update
 2. pkg install php
-3. pkg install git
+3. pkg install git -y && pkg install figlet -y && pkg install toilet -y
 4. git clone https://github.com/krshop/bot-eDot
 5. cd bot-eDot
 6. php kr-edot.php
