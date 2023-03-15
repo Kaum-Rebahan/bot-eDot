@@ -1,4 +1,4 @@
-# EdotRefferal With ClaudeOtp , AdaOtp & Manual
+# Edot Refferal With ClaudeOtp , AdaOtp & Manual
 # Cara Pakai
 1. pkg upgrade && update
 2. pkg install php
@@ -8,13 +8,23 @@
 6. php kr-edot.php
 
 # Fitur +
-1. Withdraw No OTP
-2. Set Wallet (DANA) No OTP (Harus KYC)
+1. Withdraw No OTP (Tembak Otp)
+2. Set Wallet (Rekening) No OTP (Harus KYC)
+3. dll.
 
-![IMG_20230308_234133](https://user-images.githubusercontent.com/127330029/223774670-70c503a0-f462-40c1-bf32-4e1efea0a7e8.jpg)
+# Screenshot
 
+![Screenshot_20230315_080200](https://user-images.githubusercontent.com/127330029/225178131-a8ac1a40-e080-4cb4-83ff-2c8293602fdb.jpg)
 
+# Contact
 </details>
+<details>
+    <summary><b> Buy Alarm Edot</b></summary><br/>
+ <a href="https://t.me/HaryZafeny"> Telegram</a>
+</p>
+</details>
+
+
 <details>
     <summary><b> Support</b></summary><br/>
 
@@ -23,3 +33,6 @@
 
 </p>
 </details>
+
+
+
