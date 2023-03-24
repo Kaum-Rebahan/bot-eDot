@@ -13,9 +13,7 @@
 3. dll.
 
 # Screenshot
-
-![Screenshot_20230315_080200](https://user-images.githubusercontent.com/127330029/225178131-a8ac1a40-e080-4cb4-83ff-2c8293602fdb.jpg)
-
+![IMG_20230324_232742](https://user-images.githubusercontent.com/127330029/227585025-e36962bc-1a3c-4460-9441-931d0b36e6d6.jpg)
 # Contact
 </details>
 <details>
