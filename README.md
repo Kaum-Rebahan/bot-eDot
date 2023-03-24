@@ -27,7 +27,8 @@
     <summary><b> Support</b></summary><br/>
 
 
- <a href="https://t.me/HaryZafeny"> Telegram 1</a>
+ <a href="https://t.me/HaryZafeny"> Telegram </a>
+|
  <a href="https://t.me/LentanaGarden"> Telegram</a>
 
 </p>
